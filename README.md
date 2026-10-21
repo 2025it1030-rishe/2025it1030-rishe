@@ -71,7 +71,7 @@ A project exploring AI-assisted factory monitoring and operational workflows.
 ## 🏅 Achievements & Recognition
 
 - 🎯 **Selected for the Smart India Hackathon (SIH) 2026 Internal Hackathon** at Sri Venkateswara College of Engineering (SVCE).
-- 🥇 Secured **1st place and a ₹20,000 team prize** for the Student Attendance & Bunking Tracker project.
+- 🥇 Secured **1st place and a ₹20,000 team prize** for the Student Attendance & Bunking Tracker project - **icube** at svce.
 - 💡 Collaborating on technology-driven projects focused on solving real-world problems.
 
 ---
