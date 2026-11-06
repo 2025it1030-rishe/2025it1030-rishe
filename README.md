@@ -1,100 +1,127 @@
+# 👋 Hey there! I'm S. Rishe
 
-# Hi, I'm Rishe 👋
+### 💻 Information Technology Student | Software Developer | Tech Enthusiast
 
-### B.Tech IT Student | Aspiring Software Engineer
-
-I'm a second-year Information Technology student at **Sri Venkateswara College of Engineering (SVCE), India**, graduating in 2029.
-
-I'm passionate about software development, problem-solving, and building practical technology solutions. I'm exploring both software engineering and full-stack development opportunities.
-
-- 🎓 **Education:** B.Tech Information Technology — SVCE
-- 🎯 **Career Goal:** Software Engineering & Full-Stack Development Internships
-- 🚀 **Interests:** DSA, Backend Development, AI-Powered Applications
-
----
-
-## 💻 Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+Ideas+Into+Reality+%F0%9F%9A%80;Exploring+Software+Development+%F0%9F%92%BB;Learning+DSA+and+Backend+Development+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
-### Core Computer Science
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- SQL and Database Fundamentals
+---
+
+## 🌟 About Me
+
+- 🎓 Pursuing B.Tech in Information Technology at Sri Venkateswara College of Engineering.
+- 📚 Currently in my 3rd Semester | CGPA: 8.61
+- 💻 Passionate about Software Development, Backend Engineering, and Problem Solving.
+- 🌱 Exploring Data Structures & Algorithms, DBMS, and Full-Stack Development.
+- 🚀 Interested in building innovative solutions to real-world problems.
+- 🏆 SIH Internal Hackathon Participant – Inspectra Project.
+- 🤝 Active member of Rotaract, contributing to technical and community initiatives.
 
 ---
 
-## 🏆 Featured Projects
+## 💻 Tech Stack & Tools
 
-### 1. Student Attendance & Bunking Tracker
+### 👨‍💻 Programming Languages
 
-A team-built attendance monitoring system using OpenCV and face recognition to identify students in real time and track attendance during scheduled class sessions.
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+</p>
 
-- 🎥 Captures live video and identifies students in real time.
-- 📅 Uses schedule-driven logic to track attendance during active class windows.
-- 🚨 Flags absentees and triggers alerts for faculty when students are not detected.
-- ⚙️ Focuses on efficient processing and clear backend logic.
-- 🥇 **Achievement: Secured 1st place and won ₹20,000 as a team.**
+### 🌐 Web Development
 
-**Tech Stack:** Python, OpenCV, Face Recognition
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
-### 2. Inspectra — NGO Inspection Platform
+### 🗄️ Database & Backend
 
-A team project designed to support NGO inspection workflows and monitoring.
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
+</p>
 
-- Contributed to frontend design and selected project modules.
-- Focused on improving inspection workflows and usability.
-- Collaborated with teammates on a practical software solution.
+### 🛠️ Tools & Platforms
 
-**Focus Areas:** Frontend Design, Workflow Development, Team Collaboration
-
-### 3. AI Factory Assistant — In Progress
-
-A project exploring AI-assisted factory monitoring and operational workflows.
-
-- Exploring worker activity monitoring and production support features.
-- Working toward a practical prototype for manufacturing environments.
-
-**Status:** In Development
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
 ---
 
-## 🏅 Achievements & Recognition
+## 🚀 Featured Projects
 
-- 🎯 **Selected for the Smart India Hackathon (SIH) 2026 Internal Hackathon** at Sri Venkateswara College of Engineering (SVCE).
-- 🥇 Secured **1st place and a ₹20,000 team prize** for the Student Attendance & Bunking Tracker project - **icube** at svce.
-- 💡 Collaborating on technology-driven projects focused on solving real-world problems.
+### 🔍 Inspectra – NGO Inspection Platform
+
+An NGO inspection and verification platform designed to improve transparency, monitoring, and accountability.
+
+- Contributed to backend development and implementation of essential modules.
+- Developed backend functionalities for NGO inspection workflows.
+- Project shortlisted for the SIH Internal Hackathon.
+
+**Tech Stack:** React • TypeScript • Node.js • Prisma
+
+### 🤖 AI Factory Assistant – In Progress
+
+An intelligent factory monitoring and assistance system designed to optimize industrial operations.
+
+- Working on smart factory monitoring and automation concepts.
+- Exploring machine monitoring, predictive alerts, and production bottleneck detection.
+- Integrating hardware-based vibration monitoring with software functionalities.
+
+**Tech Stack:** Python • AI/ML • OpenCV • IoT
+
+### 🏫 iCube – Student Attendance & Bunking Tracker
+
+A real-time attendance monitoring system using computer vision and face recognition.
+
+- Implemented live student identification using OpenCV.
+- Developed schedule-driven attendance tracking logic.
+- Designed automated absentee detection and faculty alert mechanisms.
+- 🏆 Secured Top Position with a ₹20,000 Prize.
+
+**Tech Stack:** Python • OpenCV • Face Recognition
 
 ---
 
-## 📈 Currently Learning
+## 🏆 Achievements & Activities
 
-- Data Structures & Algorithms
-- Full-Stack Web Development
-- Software Design and Development
-- Git and Collaborative Development
+- 🏆 Smart India Hackathon (SIH) Internal Hackathon – Inspectra Project.
+- 🥇 iCube Attendance Tracking System – Top Position, ₹20,000 Prize.
+- 🌍 Rotaract Club – International Service Director.
+- 💡 Interested in Hackathons, Innovation, and Technical Projects.
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Statistics
 
-- 💻 **GitHub:** [2025it1030-rishe](https://github.com/2025it1030-rishe)
-- 🔗 **LinkedIn:** [Rishe Hayagreev S](https://www.linkedin.com/in/rishe-hayagreev-s-276964445/)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2025it1030-rishe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=2025it1030-rishe&theme=tokyonight&hide_border=true" />
+</p>
 
-Open to collaborative projects, learning opportunities, and software development internships.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2025it1030-rishe&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishe-hayagreev-s-276964445/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/2025it1030-rishe">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Learning consistently. Building practically. Improving every day. 🚀</i>
+  💙 <b>"Code. Create. Innovate. Repeat."</b> 💙
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
